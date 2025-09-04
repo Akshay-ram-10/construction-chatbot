@@ -17,5 +17,6 @@ An AI-powered chatbot built with **Gradio** that specializes in answering querie
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/construction-chatbot.git
+   git clone https://github.com/Akshay-ram-10/construction-chatbot.git
    cd construction-chatbot
+
